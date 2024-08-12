@@ -1,10 +1,10 @@
-
-
-
 # Hands-On Machine Learning for Algorithmic Trading
 Hands-On Machine Learning for Algorithmic Trading, published by Packt
 
-<a href="https://www.packtpub.com/big-data-and-business-intelligence/hands-machine-learning-algorithmic-trading?utm_source=github&utm_medium=repository&utm_campaign=9781789346411"><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B11166_NEW.png" alt="Hands-On Machine Learning for Algorithmic Trading" height="256px" align="right"></a>
+# Summary
+Check out my summary here! [Summary](Summary/)
+
+<!-- <a href="https://www.packtpub.com/big-data-and-business-intelligence/hands-machine-learning-algorithmic-trading?utm_source=github&utm_medium=repository&utm_campaign=9781789346411"><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B11166_NEW.png" alt="Hands-On Machine Learning for Algorithmic Trading" height="256px" align="right"></a> -->
 
 This is the code repository for [Hands-On Machine Learning for Algorithmic Trading](https://www.packtpub.com/big-data-and-business-intelligence/hands-machine-learning-algorithmic-trading?utm_source=github&utm_medium=repository&utm_campaign=9781789346411), published by Packt.
 
@@ -13,7 +13,7 @@ This is the code repository for [Hands-On Machine Learning for Algorithmic Tradi
 ## What is this book about?
 The explosive growth of digital data has boosted the demand for expertise in trading strategies that use machine learning (ML). This book enables you to use a broad range of supervised and unsupervised algorithms to extract signals from a wide variety of data sources and create powerful investment strategies.
 
-This book covers the following exciting features: 
+This book covers the following exciting features:
 * Implement machine learning techniques to solve investment and trading problems
 * Leverage market, fundamental, and alternative data to research alpha factors
 * Design and fine-tune supervised, unsupervised, and reinforcement learning models
@@ -22,7 +22,7 @@ This book covers the following exciting features:
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/178934641X) today!
 
-<a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
+<a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png"
 alt="https://www.packtpub.com/" border="5" /></a>
 
 
